@@ -1,0 +1,1 @@
+# <center>SVM原理介绍及其代码实现,详细内容请看仓库中的word文档</center>
